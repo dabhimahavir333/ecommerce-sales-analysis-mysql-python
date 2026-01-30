@@ -43,4 +43,4 @@ for chunk in pd.read_csv(
 cursor.close()
 conn.close()
 
-print("✅ Data load completed")
+print("Data load completed")
