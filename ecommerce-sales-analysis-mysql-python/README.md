@@ -14,6 +14,7 @@ using Python and MySQL.
 - Online retail transactional data
 - Over 540,000 sales records
 - Includes product, customer, pricing, and date information
+- Dataset = " https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci "
 
 ## Key Steps Performed
 - Loaded large CSV data using Python with proper encoding handling
@@ -44,4 +45,5 @@ using Python and MySQL.
 
 ## Author
 Mahavirsinh Dabhi
+
 
