@@ -28,8 +28,6 @@ using Python and MySQL.
 - Revenue driven mainly by gift and seasonal products
 - Small group of high-value customers contributes a large share of revenue
 - Business is primarily UK-focused
-
-## Repository Structure
     
 
 ## Example Analysis Queries
@@ -46,3 +44,4 @@ using Python and MySQL.
 
 ## Author
 Mahavirsinh Dabhi
+
